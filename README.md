@@ -32,7 +32,7 @@ This project aims to develop a robust machine learning-based system for forecast
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/flood-forecasting-ml.git
+git clone https://github.com/yourusername/Climate-Risk-And-Disaster-Management.git
 cd flood-forecasting-ml
 pip install -r requirements.txt
 
